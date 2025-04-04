@@ -280,6 +280,7 @@ int _ConvertSMVer2Cores(int major, int minor) {
 		{0x86,  128},
 		{0x89,  128},
 		{0x90,  114},
+		{0x120,  170},
 		{-1, -1} };
 
 	int index = 0;
